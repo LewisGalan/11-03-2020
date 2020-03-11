@@ -1,0 +1,45 @@
+/*section{
+
+    background-color: red;
+    padding: 0 30px 20px 20px;
+}
+
+section.primary{
+
+    background-color: blueviolet;
+}
+
+section.Home{
+
+    background-color: brown;
+}
+
+section.one{
+
+    background-color: orangered;
+}
+
+section.k{
+
+    background-color: yellow;
+}
+
+section.nope{
+
+    background-color: goldenrod;
+}*/
+
+section{
+
+    background-color: orangered;
+}
+
+section:nth-child(even){
+
+    background-color: brown;
+}
+
+.bg-image{
+
+    background-image: url("http://www.defondos.com/images/wallpapers/white%20wallpaper%20(34)-24992_800.jpeg");
+}

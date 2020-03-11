@@ -1,0 +1,30 @@
+section{
+
+    background-color: red;
+    padding: 0 30px 20px 20px;
+}
+
+section.primary{
+
+    background-color: violet;
+}
+
+section.Home{
+
+    background-color: salmon;
+}
+
+section.one{
+
+    background-color: orangered;
+}
+
+section.k{
+
+    background-color: yellow;
+}
+
+section.nope{
+
+    background-color: goldenrod;
+}
